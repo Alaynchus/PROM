@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ValidarDNI</string>
+    <string name="introduce_un_dni">Introduce un DNI:</string>
+    <string name="n_mero_dni">Número DNI</string>
+    <string name="letra">Letra</string>
+    <string name="validar_dni">VALIDAR DNI</string>
+</resources>
